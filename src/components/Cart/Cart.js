@@ -16,7 +16,7 @@ const Cart = (props) => {
         <span>Total</span>
         <span>$35.52</span>
       </div>
-      <div className={classes.action}>
+      <div className={classes.actions}>
         <button className={classes["button--alt"]}>Close</button>
         <button className={classes.button}>Order Now</button>
       </div>
